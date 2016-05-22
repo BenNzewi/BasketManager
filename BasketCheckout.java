@@ -67,7 +67,7 @@ public class BasketCheckout {
 	
 	public static String readMe(){
 		return "----Basket Manager----\n" + 
-				"\nThis program takes a basket of items and outputd its total cost."+
+				"\nThis program takes a basket of items and outputs its total cost."+
 				"\nThe basket can contain the following items:"+
 				"\nBananas "+
 				"\nOranges "+
